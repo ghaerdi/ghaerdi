@@ -43,6 +43,7 @@
 <img align="left" src="/icons/tech/vue.png" alt="vue" height="30" />
 <img align="left" src="/icons/tech/react.png" alt="react" height="30" />
 <img align="left" src="/icons/tech/node.png" alt="node" height="30" />
+<img align="left" src="/icons/tech/deno.png" alt="deno" height="30" />
 
 <br>
 <br>
