@@ -31,7 +31,6 @@
 - Waiting for the deno era
 - Typescript developer
 - Hacking on [Piwo](https://github.com/crewdevio/piwo)
-- Learning Rust
 - Linux lover
 - Gamer
 
@@ -41,9 +40,11 @@
 <img align="left" src="/icons/tech/javascript.png" alt="javascript" height="30" />
 <img align="left" src="/icons/tech/typescript.png" alt="typescript" height="30" />
 <img align="left" src="/icons/tech/vue.png" alt="vue" height="30" />
+<img align="left" src="/icons/tech/svelte.png" alt="svelte" height="30" />
 <img align="left" src="/icons/tech/react.png" alt="react" height="30" />
 <img align="left" src="/icons/tech/node.png" alt="node" height="30" />
 <img align="left" src="/icons/tech/deno.png" alt="deno" height="30" />
+<img align="left" src="/icons/tech/rust.png" alt="rust" height="30" />
 
 <br>
 <br>
