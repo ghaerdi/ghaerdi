@@ -1,4 +1,4 @@
-<h1 align="center">Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+<h1 align="center">Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 </h1>
 
 <h3 align="center">I'm a backend && frontend developer that loves typescript and open source</h3>
