@@ -26,6 +26,7 @@
 - Waiting for the deno era
 - Typescript developer
 - Hacking on [Piwo](https://github.com/crewdevio/piwo)
+- Rust for hobby
 - Linux lover
 - Gamer
 
