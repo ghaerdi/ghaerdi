@@ -23,10 +23,9 @@
 <br>
 
 - [code your own vue](https://dev.to/ghaerdi/code-your-own-vue-50mg) author
-- Waiting for the deno era
 - Typescript developer
 - Hacking on [Piwo](https://github.com/crewdevio/piwo)
-- Rust for hobby
+- Rust as hobby
 - Linux lover
 - Gamer
 
