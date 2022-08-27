@@ -29,7 +29,7 @@
     "os": "Arch linux on Windows 11 (WSL)",
     "shell": ["starship", "zsh"],
     "editors": ["neovim", "doom emacs", "vscode"],
-    "programing_languages": ["typescript", "javscript", "rust"],
+    "programing_languages": ["typescript", "javascript", "rust"],
     "frameworks": ["vue", "react", "svelte"],
     "hobbies": [
       "watch series, anime or youtube videos",
