@@ -35,7 +35,7 @@
       "watch series, anime or youtube videos",
       "play videogames",
       "listen music",
-      "learn new thing",
+      "learn new things",
       "keep learning further",
       "code"
     ]
