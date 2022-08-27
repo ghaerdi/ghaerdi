@@ -22,12 +22,26 @@
 <br>
 <br>
 
-- [code your own vue](https://dev.to/ghaerdi/code-your-own-vue-50mg) author
-- Typescript developer
-- Hacking on [Piwo](https://github.com/crewdevio/piwo)
-- Rust as hobby
-- Linux lover
-- Gamer
+```json
+{
+  "profile": {
+    "name": "Gil Rudolf Härdi",
+    "os": "Arch linux on Windows 11 (WSL)",
+    "shell": ["starship", "zsh"],
+    "editors": ["neovim", "doom emacs", "vscode"],
+    "programing_languages": ["typescript", "javscript", "rust"],
+    "frameworks": ["vue", "react", "svelte"],
+    "hobbies": [
+      "watch series, anime or youtube videos",
+      "play videogames",
+      "listen music",
+      "learn new thing",
+      "keep learning further",
+      "code"
+    ]
+  }
+}
+```
 
 <a href="https://twitter.com/ghaerdi" target="_blank">
 	<img align="left" src="/icons/social/twitter.png" alt="ghaerdi's twitter" height="20"/>
@@ -35,10 +49,6 @@
 
 <a href="https://linkedin.com/in/ghaerdi" target="_blank">
 	<img align="left" src="/icons/social/linkedin.png" alt="ghaerdi's linkedin" height="20"/>
-</a>
-
-<a href="https://instagram.com/ghaerdi" target="_blank">
-	<img align="left" src="/icons/social/instagram.png" alt="ghaerdi's instagram" height="20"/>
 </a>
 
 <a href="https://dev.to/ghaerdi" target="_blank">
