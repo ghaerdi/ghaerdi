@@ -28,7 +28,7 @@
     "name": "Gil Rudolf Härdi",
     "os": "Arch linux on Windows 11 (WSL)",
     "shell": ["starship", "zsh"],
-    "editors": ["neovim", "doom emacs", "vscode"],
+    "editors": ["neovim"],
     "programing_languages": ["typescript", "javascript", "rust"],
     "frameworks": ["vue", "react", "svelte"],
     "hobbies": [
