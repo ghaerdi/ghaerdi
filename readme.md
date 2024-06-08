@@ -4,11 +4,6 @@
 <h3 align="center">I'm a backend && frontend developer that loves typescript and open source</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghaerdi&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaerdi&layout=compact&langs_count=8&theme=vue-dark"/>
-</div>
-
-<div>
 	<img align="left" src="/icons/tech/javascript.png" alt="javascript" height="30" />
 	<img align="left" src="/icons/tech/typescript.png" alt="typescript" height="30" />
 	<img align="left" src="/icons/tech/vue.png" alt="vue" height="30" />
@@ -54,6 +49,3 @@
 <a href="https://dev.to/ghaerdi" target="_blank">
 	<img align="left" src="/icons/social/devto.png" alt="ghaeri's dev.to" height="20"/>
 </a>
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/rambiing/rambiing/blob/main/cirno.gif?raw=true');]{x0000}$}
