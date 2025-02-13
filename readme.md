@@ -21,11 +21,11 @@
 {
   "profile": {
     "name": "Gil Rudolf Härdi",
-    "os": "Arch linux on Windows 11 (WSL)",
-    "shell": ["starship", "zsh"],
+    "os": "NixOS",
+    "shell": ["starship", "fish"],
     "editors": ["neovim"],
     "programing_languages": ["typescript", "javascript", "rust"],
-    "frameworks": ["vue", "react", "svelte"],
+    "frameworks": ["react", "svelte", "vue"],
     "hobbies": [
       "watch series, anime or youtube videos",
       "play videogames",
